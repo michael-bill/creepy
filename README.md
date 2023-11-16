@@ -5,12 +5,12 @@ Just NodeJS Express web app screamer for pranking a friend
 ### demo.gif:
 ![demo.gif](https://github.com/michael-bill/creepy/blob/main/demo.gif)
 
-### Install dependencies
+### Install dependencies:
 ```
 npm install
 ```
 
-### Run
+### Run:
 ```
 npm run start
 ```
