@@ -6,7 +6,6 @@ Just node js express web app screamer for pranking a friend
 ```
 npm install
 ```
-
 ### Run
 ```
 npm run start
